@@ -1,0 +1,1 @@
+In order to detect known faces you need to create a folder inside of your repository  with the name "faces" (If you want to chhange the name of the folder you will need to change the path in the code). 
